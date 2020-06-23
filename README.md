@@ -1,2 +1,6 @@
-# -
-日有所思，汲能汲慧
+#include<stdio.h>
+int main () {
+    printf("Hello,World!");
+    
+    return 0;
+}
